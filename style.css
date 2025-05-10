@@ -193,6 +193,7 @@ a{
 /* ////////////section1// */
 main{
     background-image: url(./images/Group\ 141.svg);
+    background-repeat: no-repeat;
 }
 .sec1_title{
     font-size: 24px;
